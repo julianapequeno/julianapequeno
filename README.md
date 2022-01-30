@@ -1,6 +1,6 @@
 ### Oiie!! 💦
 - 👩🏾‍🎓 Sou técnica em informática
-- 🎬 Estudante de TI
+- 🎬 Estudante de graduação em TI
 - 🌱 Atualmente aprendendo Python
 - 🎶 Tenho interesse em back-end
 
