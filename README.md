@@ -1,8 +1,8 @@
 ### Oiie!! 💦
-- 👩🏾‍🎓 Sou técnica em informática
+- 👩🏾‍🎓 Sou técnica em informática (EAJ/UFRN) 
 - 🎬 Estudante de graduação em TI
-- 🌱 Atualmente aprendendo Python
-- 🎶 Tenho interesse em back-end
+- 🌱 Atualmente estou me apaixonando por Python 
+- 🎶 Tenho interesse em back-end 
 
 <div align="center">
   <a href="https://github.com/julianasantiago100">
