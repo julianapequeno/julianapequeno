@@ -3,6 +3,7 @@
 - 🎬 Undergraduate IT student (UFRN)
 - 🌱 Falling in love with Python
 - 🎶 Interest in Back-End technologies 
+- 📚 Studies in Bio-Inspired Optimization Algorithm (Particle Swarm Optmization) && beggining Natural Process Language 
 
 <div align="center">
   <a href="https://github.com/julianasantiago100">
