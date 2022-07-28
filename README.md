@@ -4,7 +4,6 @@
 - 🌱 Falling in love with Python
 - 🎶 Interest in Back-End technologies 
 - 📚 Studies in Bio-Inspired Optimization Algorithm (Particle Swarm Optmization)
-- ✨ Currently working on _Snaze Game_ (C++)
 
 <div align="center">
   <a href="https://github.com/julianasantiago100">
