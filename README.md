@@ -1,8 +1,8 @@
 ### Hello!! 💦
 - 👩🏾‍🎓 Computer technician (EAJ/UFRN)
 - 🎬 Undergraduate IT student (UFRN)
-- 🌱 Falling in love with Python
-- 🎶 Interest in Back-End technologies 
+- 🌱 Currently studying Algorithms 
+- 🎶 Interest in Back-End technologies
 
 <div align="center">
   <a href="https://github.com/julianasantiago100">
