@@ -20,4 +20,3 @@ I've been working on a data analysis project for the first time! In this project
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantiago100&layout=compact&theme=gruvbox)
 
-![snake gif](https://github.com/julianasantiago100/julianasantiago100/blob/output/github-contribution-grid-snake.svg)
