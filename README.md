@@ -8,7 +8,7 @@
 <div>
   <p>
 - 👩🏾‍🎓 Computer technician (EAJ/UFRN) and undergraduate IT student at Federal University of Rio Grande do Norte (UFRN) <br>
-- 🎬 Currently studying: Machine Learning (ML 🤯)  @2023 - 2nd Semester <br>
+- 🎬 Currently studying: Machine Learning (ML 🤯)  and Natural Language Processing (NLP) @2023 - 2nd Semester <br>
 - 🎶 Curious about: Computer Science, Artificial Inteligence, Machine Learning, Back End Tech and Development
     </p>
 <img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
