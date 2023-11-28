@@ -20,7 +20,7 @@
 <h3> Currently working on: <i> Data Analysis</i><img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></h3>
 I've been working on a data analysis project for the first time! In this project, I'm simulating an UNO game and trying to get results and conclusions about how the initial parameters interfers in the result of the game. Repository: <a href="https://github.com/lianasantiago/UnoInsightsHub">UnoInsightsHub</a>
 
-<h3> I've already done projects with the following stacks: </h3>
+<h3> I've already done projects with the following techs: </h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
