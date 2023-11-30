@@ -15,7 +15,7 @@
     </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantiago100&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianasantiago&layout=compact&theme=gruvbox)
 
 <h3> Currently working on: <i> Data Analysis</i><img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></h3>
 I've been working on a data analysis project for the first time! In this project, I'm simulating an UNO game and trying to get results and conclusions about how the initial parameters interfers in the result of the game. Repository: <a href="https://github.com/lianasantiago/UnoInsightsHub">UnoInsightsHub</a>
