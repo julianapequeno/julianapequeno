@@ -8,8 +8,8 @@
 <div>
   <p>
 - 📖 Student at Federal University of Rio Grande do Norte, Natal, Brazil (UFRN) <br>
-- 👩🏾‍🎓 Computer technician (EAJ/UFRN) 2018-2020 <Br>
-- 📚 Undergraduate IT student at (IMD/UFRN) 2021- <br>
+- 👩🏾‍🎓 Computer technician (EAJ/UFRN) <Br>
+- 📚 Undergraduate IT student at IMD/UFRN <br>
 - 🎶 Curious about: Computer Science, Artificial Inteligence, Machine Learning, Back End Tech, Development and Code standards. <br>
 - 🎨 I like to write, play guitar, write and admire the sky! 
     </p>
@@ -17,9 +17,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianapequeno&layout=compact&theme=gruvbox)
 
-<h3> Currently working on: <i> Data Analysis</i><img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></h3>
-I've been working on a data analysis project for the first time! In this project, I'm simulating an UNO game and trying to get results and conclusions about how the initial parameters interfers in the result of the game. Repository: <a href="https://github.com/lianasantiago/UnoInsightsHub">UnoInsightsHub</a>
-
+<h3> Currently studying: </h3>
+    
+<img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python, Django and Agile Methodology 
+    
 <h3> I've already done projects with the following techs: </h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
