@@ -19,7 +19,7 @@
 
 <h3> Currently studying: </h3>
     
-<img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python, Django and Agile Methodology 
+<img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Django (Python) & Rust.
     
 <h3> I've already done projects with the following techs: </h3>
 
