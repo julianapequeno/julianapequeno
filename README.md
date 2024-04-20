@@ -16,7 +16,7 @@
 <h3> Currently studying:  </h3> 
 
 ```quote
- Data Engineering - data pipelines
+ Data Science - EDA, Pandas, Seaborn...
 ```
 
 <h3> I've already done projects with the following techs: </h3>
