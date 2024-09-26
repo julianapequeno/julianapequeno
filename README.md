@@ -7,9 +7,10 @@
 <div>
   <p>
 - 👩🏾‍🎓 Computer technician (EAJ/UFRN) <Br>
-- 📚 Undergraduate IT student at IMD/UFRN (6th semester) <br>
+- 📚 Undergraduate IT student at IMD/UFRN (7th semester) <br>
+- 📚 Junior Researcher (Scientific Initiation) <br>
 - 🎶 Curious about: Computer Science, AI, ML, Data Engineering, Data Science and Code standards. <br>
-- 🎨 I like to write, play guitar, write and admire the sky! 
+- 🎨 I like to write, play guitar and admire the sky! 
     </p>
 
 <h3>  Focusing on: <img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> for data science :) </h3>
