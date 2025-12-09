@@ -7,8 +7,9 @@
 <div>
   <p>
 - 👩🏾‍🎓 Computer technician (EAJ/UFRN) <Br>
-- 📚 Undergraduate IT student at IMD/UFRN (8th semester) <br>
+- 📚 Undergraduate IT student at IMD/UFRN (last semester) <br>
 - 📚 Junior Researcher (Scientific Initiation) <br>
+- ☺️ #NLPROC
 - 🎶 Curious about: Computer Science, AI, ML,NLP, Data Engineering, Data Science and Code standards. <br>
 - 🎨 I like to write, play guitar and admire the sky! 
     </p>
