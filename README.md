@@ -9,12 +9,14 @@
 - 👩🏾‍🎓 Computer technician (EAJ/UFRN) <Br>
 - 📚 Undergraduate IT student at IMD/UFRN (last semester) <br>
 - 📚 Junior Researcher (Scientific Initiation) <br>
-- ☺️ #NLPROC
-- 🎶 Curious about: Computer Science, AI, ML,NLP, Data Engineering, Data Science and Code standards. <br>
+- ☺️ #NLPROC <br>
 - 🎨 I like to write, play guitar and admire the sky! 
     </p>
 
 
+<h3> How to reach me</h3>
+<a href="https://www.linkedin.com/in/juliana-santiago-07819422b/"><img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" title="yuval-hazaz" width="50" height="50"></a>
+<br>
  I've already done projects with the following techs: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,6 +41,3 @@
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<h3> How to reach me</h3>
-<a href="https://www.linkedin.com/in/juliana-santiago-07819422b/"><img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" title="yuval-hazaz" width="50" height="50"></a>
