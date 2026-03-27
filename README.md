@@ -6,9 +6,9 @@
 ```
 <div>
   <p>
+- 📚 M.Sc in Systems and Computing Student <br>
+- 📚 B.Sc in IT (IMD/UFRN) <br>
 - 👩🏾‍🎓 Computer technician (EAJ/UFRN) <Br>
-- 📚 Undergraduate IT student at IMD/UFRN (last semester) <br>
-- 📚 Junior Researcher (Scientific Initiation) <br>
 - ☺️ #NLPROC <br>
 - 🎨 I like to write, play guitar and admire the sky! 
     </p>
